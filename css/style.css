@@ -54,9 +54,10 @@ a:hover {
 
 .mountain {
   position: relative;
-  top: 54px;
+  top: 44px;
   height: 600px;
   margin: 10px auto 0;
+bottom: 0;
 }
 
 .middle-container {
